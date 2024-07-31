@@ -1,15 +1,1 @@
-{
-  "name": "My New Hugo Site",
-  "short_name": "My New Hugo Site",
-  "start_url": "/",
-  "scope": "/",
-  "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
-  "icons": [
-    {
-      "src": "/favicon.svg",
-      "sizes": "512x512"
-    }
-  ]
-}
+{"description":"Example site for hugo-theme-tailwind","display":"standalone","icons":[{"sizes":"192x192","src":"http://localhost:1313/blog/logo_hu2b60ca0bf2612b33482c099770d24e62_93373_192x192_resize_box_3.png","type":"image/png"},{"sizes":"512x512","src":"http://localhost:1313/blog/logo_hu2b60ca0bf2612b33482c099770d24e62_93373_512x512_resize_box_3.png","type":"image/png"}],"name":"Anna Abramek's Blog","scope":"http://localhost:1313/blog/","start_url":"http://localhost:1313/blog/"}

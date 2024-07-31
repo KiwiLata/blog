@@ -1,3 +1,32 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kiwilata.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Anna Abramek's Blog"
+author = "Your Name"
+copyright = "Your Name"
+theme = 'digitalgarden'
+
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Content'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'Articles'
+  url = '/articles'
+  weight = 3
+
+
+[[menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com/KiwiLata'
+  weight = 1
+
+[[menu.social]]
+  name = 'Email'
+  url = 'coffeeplant@abramek.art'
+  weight = 1
