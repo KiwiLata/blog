@@ -1,7 +1,7 @@
 +++
 title = 'Etch-a-Sketch'
 date = 2024-07-31T15:28:32+02:00
-draft = true
+draft = false
 +++
 
 I'm working through The Odin Project and yesterday I completed Etch-a-Sketch project fromt the curriculum. Coding it brought me a lot more of joy than I expected. My biggest challenge with this project was figuring out how to handle mouse events.
