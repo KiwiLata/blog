@@ -9,6 +9,14 @@
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Anna Abramek</copyright>
+    <lastBuildDate>Wed, 31 Jul 2024 15:28:32 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Etch-a-Sketch</title>
+      <link>http://localhost:1313/blog/posts/etch-a-sketch/</link>
+      <pubDate>Wed, 31 Jul 2024 15:28:32 +0200</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/blog/posts/etch-a-sketch/</guid>
+      <description>I&amp;rsquo;m working through The Odin Project and yesterday I completed Etch-a-Sketch project fromt the curriculum. Seeing it come alive brought me a lot more of joy than I expected.&#xA;Etch-a-Sketch on my laptop My friends have also sent me a coupel of cool drawings made with it:&#xA;(mobile devices require to click to colour, instead of hovering over the squares. So it makes it much easier to draw)&#xA;I uploaded it to github so anyone can play with it:</description>
+    </item>
   </channel>
 </rss>
