@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
     <webMaster>user@example.com (Hugo Author)</webMaster>
-    <copyright>Your Name</copyright>
+    <copyright>Anna Abramek</copyright>
     <atom:link href="http://localhost:1313/blog/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

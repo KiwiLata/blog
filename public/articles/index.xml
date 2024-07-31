@@ -6,20 +6,22 @@
     <description>Recent content in Articles on Anna Abramek&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Your Name</copyright>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Anna Abramek</copyright>
     <lastBuildDate>Wed, 31 Jul 2024 13:55:22 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 2nd Post</title>
       <link>http://localhost:1313/blog/articles/my-2nd-post/</link>
-      <pubDate>Wed, 31 Jul 2024 13:55:22 +0200</pubDate>
+      <pubDate>Wed, 31 Jul 2024 13:55:22 +0200</pubDate><author>user@example.com (Hugo Author)</author>
       <guid>http://localhost:1313/blog/articles/my-2nd-post/</guid>
       <description></description>
     </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/blog/articles/my-first-post/</link>
-      <pubDate>Wed, 31 Jul 2024 13:42:47 +0200</pubDate>
+      <pubDate>Wed, 31 Jul 2024 13:42:47 +0200</pubDate><author>user@example.com (Hugo Author)</author>
       <guid>http://localhost:1313/blog/articles/my-first-post/</guid>
       <description>This is bold text, and this is emphasized text.</description>
     </item>

@@ -6,7 +6,9 @@
     <description>Recent content in Tags on Anna Abramek&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Your Name</copyright>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Anna Abramek</copyright>
     <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

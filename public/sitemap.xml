@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/articles/</loc>
-    <lastmod>2024-07-31T13:55:22+02:00</lastmod>
+    <loc>http://localhost:1313/blog/manifest.json</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-07-31T13:55:22+02:00</lastmod>
+    <loc>http://localhost:1313/blog/search/</loc>
+    <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/articles/my-2nd-post/</loc>
-    <lastmod>2024-07-31T13:55:22+02:00</lastmod>
+    <loc>http://localhost:1313/blog/search/_index.es/</loc>
+    <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/articles/my-first-post/</loc>
-    <lastmod>2024-07-31T13:42:47+02:00</lastmod>
+    <loc>http://localhost:1313/blog/search/_index.fr/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>http://localhost:1313/blog/search/_index.hi/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>http://localhost:1313/blog/search/_index.jp/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>http://localhost:1313/blog/search/_index.pl/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>http://localhost:1313/blog/search/_index.ru/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>http://localhost:1313/blog/search/_index.zh-cn/</loc>
+    <priority>0.1</priority>
   </url><url>
     <loc>http://localhost:1313/blog/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/series/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/tags/</loc>
   </url>

@@ -6,22 +6,65 @@
     <description>Recent content in Homepage on Anna Abramek&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Your Name</copyright>
-    <lastBuildDate>Wed, 31 Jul 2024 13:55:22 +0200</lastBuildDate>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Anna Abramek</copyright>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 2nd Post</title>
-      <link>http://localhost:1313/blog/articles/my-2nd-post/</link>
-      <pubDate>Wed, 31 Jul 2024 13:55:22 +0200</pubDate>
-      <guid>http://localhost:1313/blog/articles/my-2nd-post/</guid>
+      <title></title>
+      <link>http://localhost:1313/blog/manifest.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/blog/manifest.json</guid>
       <description></description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/blog/articles/my-first-post/</link>
-      <pubDate>Wed, 31 Jul 2024 13:42:47 +0200</pubDate>
-      <guid>http://localhost:1313/blog/articles/my-first-post/</guid>
-      <description>This is bold text, and this is emphasized text.</description>
+      <title></title>
+      <link>http://localhost:1313/blog/search/_index.es/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/blog/search/_index.es/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/search/_index.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/blog/search/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/search/_index.hi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/blog/search/_index.hi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/search/_index.jp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/blog/search/_index.jp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/search/_index.pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/blog/search/_index.pl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/search/_index.ru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/blog/search/_index.ru/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/search/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/blog/search/_index.zh-cn/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
