@@ -9,8 +9,15 @@
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Anna Abramek</copyright>
-    <lastBuildDate>Thu, 01 Aug 2024 11:13:58 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 17:55:40 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TOP and Leetcode</title>
+      <link>http://localhost:1313/blog/posts/top-and-leetcode/</link>
+      <pubDate>Sat, 03 Aug 2024 17:55:40 +0200</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/blog/posts/top-and-leetcode/</guid>
+      <description>Today I kept working my way through TOP curriculum, I managed to finish all javascript exercises from Foundations module and I started working on the last project, calculator. I did not finish it as I spontaneously joined Bi-weekly contest on LeetCode - I managed to finish the first two problems (contest 136), and started the third one, which I&amp;rsquo;m quite happy about!</description>
+    </item>
     <item>
       <title>Map(), Filter() and Reduce()</title>
       <link>http://localhost:1313/blog/posts/map-filter-reduce/</link>
