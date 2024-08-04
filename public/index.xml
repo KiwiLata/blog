@@ -9,8 +9,15 @@
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Anna Abramek</copyright>
-    <lastBuildDate>Sat, 03 Aug 2024 17:55:40 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 15:41:35 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finished Foundations Module</title>
+      <link>http://localhost:1313/blog/posts/finished-foundations-module/</link>
+      <pubDate>Sun, 04 Aug 2024 15:41:35 +0200</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>http://localhost:1313/blog/posts/finished-foundations-module/</guid>
+      <description>Today I finished the Foundations module of The Odin Project!&#xA;Plush penguin admiring my progress bar. I completed the last project, which was making a calculator. I struggled with chaining operations as I initially wrote my code in such way that the last element of input (supposedly the &amp;lsquo;=&amp;rsquo; sign) was removed before calculating the results. It doens&amp;rsquo;t work if there is no equal sign though! I spent quite a while figuring out why my results were suddenly wrong after adding a new function.</description>
+    </item>
     <item>
       <title>TOP and Leetcode</title>
       <link>http://localhost:1313/blog/posts/top-and-leetcode/</link>
