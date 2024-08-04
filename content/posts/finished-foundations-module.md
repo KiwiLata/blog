@@ -10,7 +10,7 @@ Today I finished the Foundations module of The Odin Project!
 
 I completed the last project, which was making a calculator. I struggled with chaining operations as I initially wrote my code in such way that the last element of input (supposedly the '=' sign) was removed before calculating the results. It doens't work if there is no equal sign though! I spent quite a while figuring out why my results were suddenly wrong after adding a new function. 
 
-My calculator code:
-live:
+My calculator code: https://github.com/KiwiLata/calculator
+live: https://kiwilata.github.io/calculator/
 
 I'm very excited to continue with more advanced lessons in the course. 
