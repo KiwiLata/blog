@@ -2,97 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Anna Abramek&#39;s Blog</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://kiwilata.github.io/blog/</link>
     <description>Recent content in Homepage on Anna Abramek&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Anna Abramek</copyright>
-    <lastBuildDate>Sun, 04 Aug 2024 15:41:35 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Aug 2024 12:46:19 +0200</lastBuildDate>
+    <atom:link href="https://kiwilata.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TOP Tables</title>
+      <link>https://kiwilata.github.io/blog/posts/top-tables/</link>
+      <pubDate>Tue, 13 Aug 2024 12:46:19 +0200</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://kiwilata.github.io/blog/posts/top-tables/</guid>
+      <description>After a short break, I&amp;rsquo;m back to working through The Odin Project. I decided to go with Full Stack JavaScript path. I finished the first part of it - it was about using emmet and creating HTML tables. Lots of very useful information about table accessibility that I didn&amp;rsquo;t know before!</description>
+    </item>
     <item>
       <title>Finished Foundations Module</title>
-      <link>http://localhost:1313/blog/posts/finished-foundations-module/</link>
+      <link>https://kiwilata.github.io/blog/posts/finished-foundations-module/</link>
       <pubDate>Sun, 04 Aug 2024 15:41:35 +0200</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/blog/posts/finished-foundations-module/</guid>
+      <guid>https://kiwilata.github.io/blog/posts/finished-foundations-module/</guid>
       <description>Today I finished the Foundations module of The Odin Project!&#xA;Plush penguin admiring my progress bar. I completed the last project, which was making a calculator. I struggled with chaining operations as I initially wrote my code in such way that the last element of input (supposedly the &amp;lsquo;=&amp;rsquo; sign) was removed before calculating the results. It doens&amp;rsquo;t work if there is no equal sign though! I spent quite a while figuring out why my results were suddenly wrong after adding a new function.</description>
     </item>
     <item>
       <title>TOP and Leetcode</title>
-      <link>http://localhost:1313/blog/posts/top-and-leetcode/</link>
+      <link>https://kiwilata.github.io/blog/posts/top-and-leetcode/</link>
       <pubDate>Sat, 03 Aug 2024 17:55:40 +0200</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/blog/posts/top-and-leetcode/</guid>
+      <guid>https://kiwilata.github.io/blog/posts/top-and-leetcode/</guid>
       <description>Today I kept working my way through TOP curriculum, I managed to finish all javascript exercises from Foundations module and I started working on the last project, calculator. I did not finish it as I spontaneously joined Bi-weekly contest on LeetCode - I managed to finish the first two problems (contest 136), and started the third one, which I&amp;rsquo;m quite happy about!</description>
     </item>
     <item>
       <title>Map(), Filter() and Reduce()</title>
-      <link>http://localhost:1313/blog/posts/map-filter-reduce/</link>
+      <link>https://kiwilata.github.io/blog/posts/map-filter-reduce/</link>
       <pubDate>Thu, 01 Aug 2024 11:13:58 +0200</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/blog/posts/map-filter-reduce/</guid>
+      <guid>https://kiwilata.github.io/blog/posts/map-filter-reduce/</guid>
       <description>Today I worked on the last lesson of The Odin Project&amp;rsquo;s Foundations module. I learned how to use map(), filter() and reduce() on arrays. Coidentically today&amp;rsquo;s LeetCode daily challenge was solvable by these methods, which is a nice chance to practice them.</description>
     </item>
     <item>
       <title>Etch-a-Sketch</title>
-      <link>http://localhost:1313/blog/posts/etch-a-sketch/</link>
+      <link>https://kiwilata.github.io/blog/posts/etch-a-sketch/</link>
       <pubDate>Wed, 31 Jul 2024 15:28:32 +0200</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/blog/posts/etch-a-sketch/</guid>
+      <guid>https://kiwilata.github.io/blog/posts/etch-a-sketch/</guid>
       <description>I&amp;rsquo;m working through The Odin Project and yesterday I completed Etch-a-Sketch project fromt the curriculum. Coding it brought me a lot more of joy than I expected. My biggest challenge with this project was figuring out how to handle mouse events.&#xA;Etch-a-Sketch on my laptop. An alien I drew on my phone. My friends have also sent me a couple of cool drawings made with it:&#xA;Abstract art. A kitty. Rigth now mobile devices require to click to colour a tile, instead of hovering over it which makes drawing much easier.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/manifest.json</link>
+      <link>https://kiwilata.github.io/blog/manifest.json</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/blog/manifest.json</guid>
+      <guid>https://kiwilata.github.io/blog/manifest.json</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/search/_index.es/</link>
+      <link>https://kiwilata.github.io/blog/search/_index.es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/blog/search/_index.es/</guid>
+      <guid>https://kiwilata.github.io/blog/search/_index.es/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/search/_index.fr/</link>
+      <link>https://kiwilata.github.io/blog/search/_index.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/blog/search/_index.fr/</guid>
+      <guid>https://kiwilata.github.io/blog/search/_index.fr/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/search/_index.hi/</link>
+      <link>https://kiwilata.github.io/blog/search/_index.hi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/blog/search/_index.hi/</guid>
+      <guid>https://kiwilata.github.io/blog/search/_index.hi/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/search/_index.jp/</link>
+      <link>https://kiwilata.github.io/blog/search/_index.jp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/blog/search/_index.jp/</guid>
+      <guid>https://kiwilata.github.io/blog/search/_index.jp/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/search/_index.pl/</link>
+      <link>https://kiwilata.github.io/blog/search/_index.pl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/blog/search/_index.pl/</guid>
+      <guid>https://kiwilata.github.io/blog/search/_index.pl/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/search/_index.ru/</link>
+      <link>https://kiwilata.github.io/blog/search/_index.ru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/blog/search/_index.ru/</guid>
+      <guid>https://kiwilata.github.io/blog/search/_index.ru/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/search/_index.zh-cn/</link>
+      <link>https://kiwilata.github.io/blog/search/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>http://localhost:1313/blog/search/_index.zh-cn/</guid>
+      <guid>https://kiwilata.github.io/blog/search/_index.zh-cn/</guid>
       <description></description>
     </item>
   </channel>
